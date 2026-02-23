@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   other: {
-    'google-site-verification': '',
+    'google-site-verification': 'gMG36IHvkflIo-IY-IGXWPW7mtCAKHmzZHe0xjKZaoc',
   },
 }
 
