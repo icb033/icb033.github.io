@@ -1,0 +1,7 @@
+# robots.txt for Infrastructure Consultant Bureau (ICB)
+# https://icb033.github.io
+
+User-agent: *
+Allow: /
+
+Sitemap: https://icb033.github.io/sitemap.xml

@@ -1,0 +1,30 @@
+# Infrastructure Consultant Bureau (ICB)
+
+> Engineering the frameworks that carry tomorrow
+
+## About
+
+Infrastructure Consultant Bureau (ICB) is a civil engineering and infrastructure consulting firm specializing in the design and engineering of bridges, roads, flyovers, and structural systems. ICB is founded and led by Supriyolal Bandyopadhyay.
+
+## Founder
+
+- **Name**: Supriyolal Bandyopadhyay
+- **Role**: Founder & Lead Consultant
+- **Organization**: Infrastructure Consultant Bureau (ICB)
+
+## Services
+
+- Bridge Design & Engineering
+- Road Infrastructure Planning
+- Flyover Design & Construction Consulting
+- Structural Engineering & Analysis
+- Infrastructure Consulting
+
+## Contact
+
+- **Email**: icb033@gmail.com
+- **Website**: https://icb033.github.io
+
+## Keywords
+
+Infrastructure Consultant Bureau, ICB, Supriyolal Bandyopadhyay, civil engineering, bridge design, road infrastructure, flyover construction, structural engineering, infrastructure consulting, India
